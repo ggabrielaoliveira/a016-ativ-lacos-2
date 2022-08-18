@@ -5,3 +5,9 @@ const array = [
     [20, 33, 11, 12, 19],
     [3, 3, 4, 5, 10]
 ]
+for(let i=0;i<array.length;i++){
+    let temporada=`Temporada ${i+1}:`
+    console.log(temporada, array[i])
+   
+}
+// pense simples , gabriela
